@@ -29,7 +29,7 @@ export default function App() {
         });
         // Short delay before opening GitHub
         setTimeout(() => {
-          window.open('https://github.com/ajujawade', '_blank');
+          window.open('https://github.com/ajayjawade06', '_blank');
         }, 800);
       }
     },
